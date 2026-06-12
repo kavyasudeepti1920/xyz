@@ -5,6 +5,7 @@ struct Student
     int id;
     char name[30];
     float marks;
+    char address[100];
 };
 
 int main()
