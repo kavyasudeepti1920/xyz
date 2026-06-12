@@ -16,7 +16,7 @@ int main()
 
     printf("Enter details of 3 students:\n");
 
-    for(i = 0; i < 3; i++)
+    for(i = 0; i < 4; i++)
     {
         printf("\nStudent %d\n", i + 1);
 
